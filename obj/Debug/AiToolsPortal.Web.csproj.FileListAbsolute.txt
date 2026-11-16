@@ -1,0 +1,8 @@
+c:\antigravity\AiToolsPortal\bin\AiToolsPortal.dll.config
+c:\antigravity\AiToolsPortal\bin\AiToolsPortal.dll
+c:\antigravity\AiToolsPortal\bin\AiToolsPortal.pdb
+c:\antigravity\AiToolsPortal\obj\Debug\AiToolsPortal.Web.csproj.AssemblyReference.cache
+c:\antigravity\AiToolsPortal\obj\Debug\AiToolsPortal.Web.csproj.CoreCompileInputs.cache
+c:\antigravity\AiToolsPortal\obj\Debug\AiToolsP.C4D67165.Up2Date
+c:\antigravity\AiToolsPortal\obj\Debug\AiToolsPortal.dll
+c:\antigravity\AiToolsPortal\obj\Debug\AiToolsPortal.pdb
